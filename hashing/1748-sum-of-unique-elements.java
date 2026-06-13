@@ -14,6 +14,12 @@ class Solution {
                 }
             }
         // }
+
+        // for (int num : counts.keySet()) {
+        //     if (counts.get(num) == 1) {
+        //         ans += num;
+        //     }
+        // }
         int sum = 0;
         for(int num:list){
             sum += num;
