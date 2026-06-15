@@ -1,4 +1,4 @@
-//Array Implementation of SUm of Unique Elements
+//Array Implementation of Sum of Unique Elements
 
 class Solution {
     public int sumOfUnique(int[] nums) {
