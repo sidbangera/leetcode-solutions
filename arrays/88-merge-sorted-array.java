@@ -8,3 +8,5 @@ class Solution {
         Arrays.sort(nums1);
         }
 }
+
+//Method 1
